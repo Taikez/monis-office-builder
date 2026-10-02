@@ -2,7 +2,7 @@
 
 A visual, interactive workspace configurator built for Monis.rent. Design your ideal remote setup in Bali and request a rental in minutes.
 
-**Live Demo:** https://www.monis-office-builder.vercel.app
+**Live Demo:** https://monis-office-builder.vercel.app
 
 ## Features
 
